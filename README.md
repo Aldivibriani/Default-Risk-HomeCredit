@@ -1,5 +1,6 @@
 # Default-Risk-HomeCredit
 Implementasi Machine Learning untuk Memprediksi Default Risk di HomeCredit
+Datasets are from this kaggle: https://www.kaggle.com/competitions/home-credit-default-risk
 
 # Company Profile
 Banyak calon nasabah yang kesulitan mengajukan pinjaman karena kurangnya atau tidak ada sama sekali memiliki riwayat kredit, sehingga mereka berakhir menggunakan peminjam yang kurang dipercaya dan sering dimanfaatkan (contoh rate bunga yang tinggi). HomeCredit ingin menyediakan pinjaman yang aman dan nyaman untuk para nasabahnya. Untuk memastikan bahwa nasabah yang memiliki riwayat kredit yang lemah itu mampu memenuhi pembayaran, maka HomeCredit ingin mengidentifikasi karakteristik nasabah apa saja yang berpotensi gagal bayar dan tidak, sehingga HomeCredit bisa memberikan pinjaman untuk nasabah yang memiliki riwayat kredit yang kurang.
